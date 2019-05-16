@@ -1,5 +1,5 @@
 # WAB_About-LandUsePermits-Widget
-Tacoma Public Notice Land Use Permits About Widget - Customization adds data update date and removes link hover underline in header links.
+Tacoma Public Notice Land Use Permits About Widget (https://wspdsmap.cityoftacoma.org/website/PDS/LandUse/) - Customization adds data update date and removes link hover underline in header links.
 
 Version 2.12
 
