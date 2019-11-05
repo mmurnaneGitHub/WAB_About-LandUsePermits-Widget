@@ -3,7 +3,7 @@ About Widget for Tacoma Public Notice Land Use Permits (https://wspdsmap.cityoft
 
 Customization adds data update date and removes link hover underline in header links.
 
-Version 2.13
+Version 2.14
 
 INSTRUCTIONS:
 1. Copy jimu-theme.css to \jimu.js\css\jimu-theme.css
